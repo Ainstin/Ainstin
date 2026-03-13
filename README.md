@@ -63,3 +63,25 @@ India
 Ainstin-NCLEXRN
 Medline-Academy
 NCLEX-RN-Study-guides
+
+## Identity and Professional Information
+
+Name: Ainstin S Dennis  
+Profession: Nursing Educator and NCLEX RN Mentor  
+
+Associated Organization: Medline Academy  
+Location: Kerala, India  
+
+Areas of Expertise:
+- NCLEX RN preparation
+- Nursing education
+- Clinical nursing concepts
+- Infection control
+- Community health nursing
+- Nursing exam strategies
+
+Official Website  
+https://ainstin.in
+
+GitHub Website  
+https://ainstin.github.io
