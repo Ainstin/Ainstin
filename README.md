@@ -19,10 +19,11 @@ Website: https://ainstin.in
 • Infection control  
 • Nursing education
 
-## Professional Links
+## Professional and Authority Links
 
 Website  
 https://ainstin.in
+https://ainstin.github.io
 
 LinkedIn  
 https://www.linkedin.com/in/ainstin-s-dennis-392076390
@@ -56,3 +57,9 @@ Thiruvalla
 Pathanamthitta  
 Kerala – 689101  
 India
+
+##Related GitHub Repositories
+
+Ainstin-NCLEXRN
+Medline-Academy
+NCLEX-RN-Study-guides
